@@ -36,7 +36,7 @@ python main.py
 
    *  Too low
    *  Too high
-4. Keep guessing until you find the correct number 🎉
+4. Keep guessing until you find the correct number
 
 ---
 
